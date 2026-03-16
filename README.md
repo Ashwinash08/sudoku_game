@@ -27,5 +27,3 @@ This project provides an interactive interface that allows users to solve Sudoku
 The Sudoku game uses a **Backtracking Algorithm** to generate and solve puzzles. The algorithm works by placing numbers in empty cells and checking whether they satisfy Sudoku rules. If a number violates a rule, the algorithm backtracks and tries another number until the puzzle is solved.
 
 ---
-
-## 📂 Project Structure
